@@ -1,3 +1,0 @@
-// var Child = React.createElement({
-//
-// })
